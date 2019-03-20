@@ -1,17 +1,3 @@
-body{
-    font-family: Arial, Helvetica, sans-serif;
-    margin: 0;
-    background-color: #1b2838;
-    color: #acb2b8;
-    line-height: normal;
-}
-header {
-     color: #b8b6b4;
-     height: 70.4px;
-     background-color: #171a21;
-     display: flex;
-     text-align: center;
-}
 ul, menu, dir {
     display: block;
     list-style-type: disc;
@@ -21,6 +7,52 @@ ul, menu, dir {
     margin-inline-end: 0px;
     padding-inline-start: 40px;
 }
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+h4 {
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+html{
+    height: 100%;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-color: #1b2838;
+    color: #acb2b8;
+    line-height: normal;
+    letter-spacing: normal;
+    word-spacing: normal;
+    height: 100%;
+}
+header {
+     color: #b8b6b4;
+     height: 10%;
+     background-color: #171a21;
+     display: flex;
+     text-align: center;
+}
+
 nav{
     margin: auto 3em;
 }
