@@ -2,235 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f99bc2c4-4d1c-4a5d-a7fe-076b7dbd58fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/CNAME" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/Gruntfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_includes/ads.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_includes/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_includes/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_includes/nav-components.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_includes/nav-css.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_includes/nav-customize.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_includes/nav-getting-started.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_includes/nav-javascript.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_includes/nav-main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_includes/old-bs-docs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_includes/social-buttons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_layouts/default.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/_layouts/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/css/docs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/css/pygments-manni.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/ico/apple-touch-icon-114-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/ico/apple-touch-icon-144-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/ico/apple-touch-icon-57-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/ico/apple-touch-icon-72-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/ico/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/js/application.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/js/customizer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/js/filesaver.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/js/holder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/js/html5shiv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/js/jszip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/js/less.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/js/raw-files.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/js/respond.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/assets/js/uglify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/browserstack.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/components.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/css.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/customize.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/dist/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/dist/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/carousel/carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/carousel/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/grid/grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/grid/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/jumbotron-narrow/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/jumbotron-narrow/jumbotron-narrow.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/jumbotron/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/jumbotron/jumbotron.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/justified-nav/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/justified-nav/justified-nav.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/navbar-fixed-top/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/navbar-fixed-top/navbar-fixed-top.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/navbar-static-top/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/navbar-static-top/navbar-static-top.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/navbar/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/navbar/navbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/non-responsive/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/non-responsive/non-responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/offcanvas/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/offcanvas/offcanvas.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/offcanvas/offcanvas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/screenshots/carousel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/screenshots/grid.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/screenshots/jumbotron-narrow.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/screenshots/jumbotron.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/screenshots/justified-nav.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/screenshots/navbar-fixed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/screenshots/navbar-static.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/screenshots/navbar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/screenshots/non-responsive.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/screenshots/offcanvas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/screenshots/sign-in.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/screenshots/starter-template.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/screenshots/sticky-footer-navbar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/screenshots/sticky-footer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/screenshots/theme.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/signin/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/signin/signin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/starter-template/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/starter-template/starter-template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/sticky-footer-navbar/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/sticky-footer-navbar/sticky-footer-navbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/sticky-footer/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/sticky-footer/sticky-footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/theme/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/examples/theme/theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/getting-started.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/javascript.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/.jshintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/affix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/collapse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/dropdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/popover.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/scrollspy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tab.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/phantom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/unit/affix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/unit/alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/unit/button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/unit/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/unit/collapse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/unit/dropdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/unit/modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/unit/phantom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/unit/popover.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/unit/scrollspy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/unit/tab.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/unit/tooltip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/unit/transition.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/vendor/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/vendor/qunit.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tests/vendor/qunit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/tooltip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/js/transition.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/alerts.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/badges.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/bootstrap.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/breadcrumbs.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/button-groups.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/buttons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/carousel.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/close.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/code.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/component-animations.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/dropdowns.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/forms.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/glyphicons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/grid.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/input-groups.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/jumbotron.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/labels.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/list-group.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/media.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/mixins.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/modals.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/navbar.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/navs.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/normalize.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/pager.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/pagination.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/panels.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/popovers.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/print.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/progress-bars.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/responsive-utilities.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/scaffolding.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/tables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/theme.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/thumbnails.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/tooltip.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/type.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/utilities.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/variables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/less/wells.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.0.0/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/art/113010-m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/art/113010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/art/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/art/thumbs/106020.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/art/thumbs/107010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/art/thumbs/116010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/art/thumbs/120010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/art/thumbs/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/art/tiny/099110.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/art/tiny/106020.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/art/tiny/113010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/art/tiny/116010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/art/tiny/120010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/art/tiny/13030.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/art/tiny/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/book/013261930X.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/book/013267145X.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/book/013284737X.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/book/013286908X.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/book/013295351X.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/book/0321826124.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/book/0321826132.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/book/0321837347.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/book/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/book/glyphicons_042_group.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/travel/9494472443.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/travel/9498358806.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/travel/9504449928.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/travel/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/travel/new-banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/travel/tiny/8710247776.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/travel/tiny/8710320515.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/travel/tiny/9494282329.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/travel/tiny/9494464567.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/travel/tiny/9495574327.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/travel/tiny/9496787858.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/travel/tiny/9502740177.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/travel/tiny/9504609042.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/travel/tiny/9505536014.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/travel/tiny/9505893300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/travel/tiny/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4 作业要求.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4.css" beforeDir="false" afterPath="$PROJECT_DIR$/lab4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab4.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -262,12 +35,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lab4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="162" column="56" selection-start-line="162" selection-start-column="56" selection-end-line="162" selection-end-column="56" />
+            <state relative-caret-position="333">
+              <caret line="168" column="90" selection-start-line="168" selection-start-column="90" selection-end-line="168" selection-end-column="90" />
               <folding>
-                <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -276,8 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab4.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="101" column="16" lean-forward="true" selection-start-line="101" selection-start-column="16" selection-end-line="101" selection-end-column="16" />
+            <state relative-caret-position="567">
+              <caret line="140" column="21" selection-start-line="140" selection-start-column="21" selection-end-line="140" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -370,7 +142,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554280296273" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554280929783" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -406,12 +178,12 @@
       <workItem from="1553077477358" duration="5465000" />
       <workItem from="1553405534338" duration="591000" />
       <workItem from="1553650366231" duration="1630000" />
-      <workItem from="1554268951697" duration="10542000" />
+      <workItem from="1554268951697" duration="11082000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25337000" />
+    <option name="totallyTimeSpent" value="25877000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
@@ -488,19 +260,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lab4.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="101" column="16" lean-forward="true" selection-start-line="101" selection-start-column="16" selection-end-line="101" selection-end-column="16" />
+        <state relative-caret-position="567">
+          <caret line="140" column="21" selection-start-line="140" selection-start-column="21" selection-end-line="140" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="162" column="56" selection-start-line="162" selection-start-column="56" selection-end-line="162" selection-end-column="56" />
+        <state relative-caret-position="333">
+          <caret line="168" column="90" selection-start-line="168" selection-start-column="90" selection-end-line="168" selection-end-column="90" />
           <folding>
-            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

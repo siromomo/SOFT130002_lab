@@ -11,9 +11,6 @@
     <!-- Custom styles for this template -->
     <link href="lab4.css" rel="stylesheet">
 
-    <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
-    <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
 </head>
 <body>
 
@@ -122,54 +119,7 @@
         </table>
     </div>
     </div>
-    <div class="col-xs-2 bs-sidebar" style="float: right">
 
-        <div class="panel panel-primary" style="margin-top: 10px">
-            <div class="panel-heading">
-                <h3 >Cart </h3>
-            </div>
-            <div class="panel-body">
-                <a  href="#">
-                    <img  src="images/art/tiny/116010.jpg" alt="..." width="32">
-                </a>
-                <p><a href="#">Artist Holding a Thistle</a></p>
-
-                <a  href="#">
-                    <img src="images/art/tiny/113010.jpg" alt="..." width="32">
-                </a>
-
-                <p ><a href="#">Self-portrait <br>in a Straw Hat</a></p>
-
-                <strong class="cartText">Subtotal: <span class="cartPrice">$1200</span></strong>
-                <div>
-                    <button type="button" class="btn btn-primary"> Edit</button>
-                    <button type="button" class="btn btn-primary"> Checkout</button>
-
-                </div>
-            </div>
-        </div>
-        <div class="panel panel-info">
-            <h3 class="panel-heading">Popular Artists</h3>
-            <ul class="panel-body">
-                <li><a href="#">Caravaggio</a></li>
-                <li><a href="#">Cezanne</a></li>
-                <li><a href="#">Matisse</a></li>
-                <li><a href="#">Michelangelo</a></li>
-                <li><a href="#">Picasso</a></li>
-                <li><a href="#">Raphael</a></li>
-                <li><a href="#">Van Gogh</a></li>
-            </ul>
-        </div>
-        <div class="panel panel-info">
-            <h3 class="panel-heading">Popular Genres</h3>
-            <ul class="panel-body">
-                <li><a href="#">Baroque</a></li>
-                <li><a href="#">Cubism</a></li>
-                <li><a href="#">Impressionism</a></li>
-                <li><a href="#">Renaissance</a></li>
-            </ul>
-        </div>
-    </div>
 </div>
 
     <p>&nbsp;</p>
@@ -214,6 +164,54 @@
             <button type="button" class="btn btn-info"> Cart</button>
         </div>
     </div>
+    </div>
+</div>
+<div class="col-xs-2 sidebar" style="position: absolute; top: 25%; left: 80%">
+
+    <div class="panel panel-primary" style="margin-top: 10px">
+        <div class="panel-heading">
+            <h3 >Cart </h3>
+        </div>
+        <div class="panel-body">
+            <a  href="#">
+                <img  src="images/art/tiny/116010.jpg" alt="..." width="32">
+            </a>
+            <p><a href="#">Artist Holding a Thistle</a></p>
+
+            <a  href="#">
+                <img src="images/art/tiny/113010.jpg" alt="..." width="32">
+            </a>
+
+            <p ><a href="#">Self-portrait <br>in a Straw Hat</a></p>
+
+            <strong class="cartText">Subtotal: <span class="cartPrice">$1200</span></strong>
+            <div>
+                <button type="button" class="btn btn-primary"> Edit</button>
+                <button type="button" class="btn btn-primary"> Checkout</button>
+
+            </div>
+        </div>
+    </div>
+    <div class="panel panel-info">
+        <h3 class="panel-heading">Popular Artists</h3>
+        <ul class="panel-body">
+            <li><a href="#">Caravaggio</a></li>
+            <li><a href="#">Cezanne</a></li>
+            <li><a href="#">Matisse</a></li>
+            <li><a href="#">Michelangelo</a></li>
+            <li><a href="#">Picasso</a></li>
+            <li><a href="#">Raphael</a></li>
+            <li><a href="#">Van Gogh</a></li>
+        </ul>
+    </div>
+    <div class="panel panel-info">
+        <h3 class="panel-heading">Popular Genres</h3>
+        <ul class="panel-body">
+            <li><a href="#">Baroque</a></li>
+            <li><a href="#">Cubism</a></li>
+            <li><a href="#">Impressionism</a></li>
+            <li><a href="#">Renaissance</a></li>
+        </ul>
     </div>
 </div>
 <footer>
@@ -276,7 +274,7 @@
     </div>
    <div id="copyrightRow">
        <p>All images are copyright to their owners. This is just a hypothetical site
-       <span >&copy; 2014 Copyright Art Store</span></p>
+       <span class="copyright">&copy; 2014 Copyright Art Store</span></p>
    </div>
 </footer>
 
