@@ -19,6 +19,7 @@ div#topHeaderRow nav {
     padding: 1% 1% 1% 1%;
     background: none;
     color: gainsboro;
+    position: relative;
 }
 div#topHeaderRow p{
     display: inline-block;
@@ -26,10 +27,14 @@ div#topHeaderRow p{
 div#topHeaderRow ul{
     list-style: none;
     display: inline-block;
-    float: right;
+    width: max-content;
+    position: absolute;
+    right: 5%;
+    white-space:nowrap;
 }
 div#topHeaderRow li{
     display: inline-block;
+    margin-left: 3%;
 }
 div#topHeaderRow li a{
     color: gainsboro;
@@ -96,6 +101,9 @@ div#mainNavigationRow nav ul.dropdown-menu{
 .panel ul{
     list-style: none;
 }
+.panel img{
+    margin-left: 20%;
+}
 .panel-body p, .panel-body img, .panel-body a{
     display: inline-block;
 }
@@ -105,9 +113,11 @@ div#mainNavigationRow nav ul.dropdown-menu{
 }
 .similarContent .panel{
     padding: 1% 1%;
+    width: max-content;
 }
 .similarTitle {
-
+    font-weight: bold;
+    font-size: large;
 }
 
 .cartText { 
@@ -136,6 +146,7 @@ footer {
     padding: 1% 1%;
     color: gainsboro;
     position: relative;
+    margin-top: 10px;
 }
 #copyrightRow .copyright{
     position: absolute;
