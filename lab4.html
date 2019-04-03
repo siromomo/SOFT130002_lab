@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chapter5</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="bootstrap-3.0.0/dist/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="lab4.css" rel="stylesheet">
+
+    <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+
+<header>
+    <div id="topHeaderRow" >
+        <nav>
+            <p>Welcome to <strong>Art Store</strong>, Login or create new account</p>
+            <ul>
+                <li><a href="#"> My Account</a></li>
+                <li><a href="#"> / Wish List</a></li>
+                <li><a href="#"> / Shopping Cart</a></li>
+                <li><a href="#"> / Checkout</a></li>
+            </ul>
+        </nav>
+   </div>   <!-- end topHeaderRow -->
+   
+   <div id="logoRow" >
+        <h1>Art Store</h1> 
+
+        <form  class="navbar-form" role="search">
+          <label for="search">Search</label>
+          <input type="text" placeholder="Search" name="search" id="search">
+
+          <button class="btn btn-default" type="submit">search </button>
+        </form> 
+   </div>  <!-- end logoRow -->
+   
+   <div id="mainNavigationRow" >
+         <nav class="navbar-default">
+             <ul >
+               <li ><a href="#">Home</a></li>
+               <li><a href="#">About Us</a></li>
+               <li><a href="#">Art Works</a></li>
+               <li><a href="#">Artists</a></li>
+               <li class="dropdown">
+                 <a href="#" class="dropdown-toggle" data-toggle="dropdown"
+                    onclick="var dpd = document.getElementsByClassName('dropdown-menu')[0];
+                                if(dpd.style.display === 'none'){
+                                    dpd.style.display = 'block';
+                                }else{
+                                    dpd.style.display = 'none';
+                                }">Specials <span class="caret"></span></a>
+                 <ul class="dropdown-menu">
+                   <li><a href="#">Special 1</a></li>
+                   <li><a href="#">Special 2</a></li>                   
+                 </ul>
+               </li>
+             </ul>              
+
+         </nav>
+   </div>  <!-- end mainNavigationRow -->
+   
+</header>
+
+<div class="container row1">
+    <div class="col-xs-4">
+        <h2>Self-portrait in a Straw Hat</h2>
+        <p>By <a href="#">Louise Elisabeth Lebrun</a></p>
+
+        <img src="images/art/113010.jpg" class="img-thumbnail img-responsive" alt="Self-portrait in a Straw Hat"/>
+    </div>
+    <div class="col-xs-5" id="description">
+    <p>
+    The painting appears, after cleaning, to be an autograph replica of a picture, the original of which was painted in Brussels in 1782 in free imitation of Rubens's 'Chapeau de Paille', which LeBrun had seen in Antwerp. It was exhibited in Paris in 1782 at the Salon de la Correspondance. LeBrun's original is recorded in a private collection in France. 
+    </p>
+    <p class="price">$700</p>
+    <div class="btn-group">
+        <button type="button" class="btn btn-default">
+        <a href="#"> Add to Wish List</a>  
+        </button>
+        <button type="button" class="btn btn-default">
+        <a href="#"> Add to Shopping Cart</a>
+        </button>
+    </div>               
+    <p>&nbsp;</p>
+    <div >
+
+        <table class="table table-bordered">
+            <tr>
+                <th colspan="2" class="active">Product Details</th>
+            </tr>
+            <tr>
+                <th>Date:</th>
+                <td>1782</td>
+            </tr>
+            <tr>
+                <th>Medium:</th>
+                <td>Oil on canvas</td>
+            </tr>  
+            <tr>
+                <th>Dimensions:</th>
+                <td>98cm x 71cm</td>
+            </tr> 
+            <tr>
+                <th>Home:</th>
+                <td><a href="#">National Gallery, London</a></td>
+            </tr>  
+            <tr>
+                <th>Genres:</th>
+                <td><a href="#">Realism</a>, <a href="#">Rococo</a></td>
+            </tr> 
+            <tr>
+                <th>Subjects:</th>
+                <td><a href="#">People</a>, <a href="#">Arts</a></td>
+            </tr>     
+        </table>
+    </div>
+    </div>
+    <div class="col-xs-2 bs-sidebar" style="float: right">
+
+        <div class="panel panel-primary" style="margin-top: 10px">
+            <div class="panel-heading">
+                <h3 >Cart </h3>
+            </div>
+            <div class="panel-body">
+                <a  href="#">
+                    <img  src="images/art/tiny/116010.jpg" alt="..." width="32">
+                </a>
+                <p><a href="#">Artist Holding a Thistle</a></p>
+
+                <a  href="#">
+                    <img src="images/art/tiny/113010.jpg" alt="..." width="32">
+                </a>
+
+                <p ><a href="#">Self-portrait <br>in a Straw Hat</a></p>
+
+                <strong class="cartText">Subtotal: <span class="cartPrice">$1200</span></strong>
+                <div>
+                    <button type="button" class="btn btn-primary"> Edit</button>
+                    <button type="button" class="btn btn-primary"> Checkout</button>
+
+                </div>
+            </div>
+        </div>
+        <div class="panel panel-info">
+            <h3 class="panel-heading">Popular Artists</h3>
+            <ul class="panel-body">
+                <li><a href="#">Caravaggio</a></li>
+                <li><a href="#">Cezanne</a></li>
+                <li><a href="#">Matisse</a></li>
+                <li><a href="#">Michelangelo</a></li>
+                <li><a href="#">Picasso</a></li>
+                <li><a href="#">Raphael</a></li>
+                <li><a href="#">Van Gogh</a></li>
+            </ul>
+        </div>
+        <div class="panel panel-info">
+            <h3 class="panel-heading">Popular Genres</h3>
+            <ul class="panel-body">
+                <li><a href="#">Baroque</a></li>
+                <li><a href="#">Cubism</a></li>
+                <li><a href="#">Impressionism</a></li>
+                <li><a href="#">Renaissance</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+    <p>&nbsp;</p>
+
+    <h3>Similar Products </h3>
+<div class="container similar">
+    <div class="similarContent col-xs-8">
+    <div class="panel panel-default">
+      <img src="images/art/thumbs/116010.jpg" alt="..." >
+      <div >
+             <p class="similarTitle"><a href="#">Artist Holding a Thistle</a></p>
+             <button type="button" class="btn btn-primary"> View</button>
+             <button type="button" class="btn btn-success"> Wish</button>
+             <button type="button" class="btn btn-info"> Cart</button>
+      </div>
+    </div>                   
+
+    <div class="panel panel-default">
+      <img src="images/art/thumbs/120010.jpg" alt="..." >
+      <div >
+             <p class="similarTitle"><a href="#">Portrait of Eleanor of Toledo</a></p>
+          <button type="button" class="btn btn-primary"> View</button>
+          <button type="button" class="btn btn-success"> Wish</button>
+          <button type="button" class="btn btn-info"> Cart</button>
+      </div>
+    </div>                   
+    <div class="panel panel-default">
+        <img src="images/art/thumbs/107010.jpg" alt="..." >
+        <div >
+             <p class="similarTitle"><a href="#">Madame de Pompadour</a></p>
+            <button type="button" class="btn btn-primary"> View</button>
+            <button type="button" class="btn btn-success"> Wish</button>
+            <button type="button" class="btn btn-info"> Cart</button>
+        </div>
+    </div>                   
+    <div class="panel panel-default">
+        <img src="images/art/thumbs/106020.jpg" alt="..." >
+        <div >
+             <p class="similarTitle"><a href="#">Girl with a Pearl Earring</a></p>
+            <button type="button" class="btn btn-primary"> View</button>
+            <button type="button" class="btn btn-success"> Wish</button>
+            <button type="button" class="btn btn-info"> Cart</button>
+        </div>
+    </div>
+    </div>
+</div>
+<footer>
+    <div class="container">
+        <div class="col-xs-3">
+    <h4> About Us</h4>
+    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+        </div>
+<div class="col-xs-3">
+    <h4> Customer Service</h4>
+    <ul class="list-unstyled">
+      <li><a href="#">Delivery Information</a></li>
+      <li><a href="#">Privacy Policy</a></li>
+      <li><a href="#">Shipping</a></li>
+      <li><a href="#">Terms and Conditions</a></li>
+    </ul>           
+</div>
+        <div class="col-xs-3">
+    <h4> Just Ordered</h4>
+    <div class="media">
+      <a  href="#">
+        <img src="images/art/tiny/13030.jpg" alt="...">
+      </a>
+        <div class="media-body justOrderedDescription">
+        <p> <a href="#">Arrangement in Grey and Black</a></p>
+        <em>5 minutes ago</em>
+        </div>
+    </div>
+
+    <div class="media">
+      <a  href="#">
+        <img  src="images/art/tiny/116010.jpg" alt="...">
+      </a>
+        <div class="media-body justOrderedDescription">
+        <p ><a href="#">Artist Holding a Thistle</a></p>
+        <em>11 minutes ago</em>
+        </div>
+    </div>   
+    <div class="media">
+      <a class="pull-left" href="#">
+        <img src="images/art/tiny/113010.jpg" alt="...">
+      </a>
+        <div class="media-body justOrderedDescription">
+        <p class="similarTitle"><a href="#">Self-portrait in a Straw Hat</a></p>
+        <em>23 minutes ago</em>
+        </div>
+      </div>
+        </div>
+        <div class="col-xs-3">
+        <h4> Contact us</h4>
+        <form class="form form-inline" role="form">
+            <input type="text" class="form-control" name="email" id="name" placeholder="Enter name ...">
+            <input type="email"  class="form-control" name="email" id="email" placeholder="Enter email ...">
+            <br>
+            <textarea  rows="3" class="form-control" placeholder="Enter message ..." id="message"></textarea>
+            <br>
+            <button type="submit" class="btn btn-primary btn-block">Submit</button>
+        </form>
+        </div>
+    </div>
+   <div id="copyrightRow">
+       <p>All images are copyright to their owners. This is just a hypothetical site
+       <span >&copy; 2014 Copyright Art Store</span></p>
+   </div>
+</footer>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="bootstrap-3.0.0/assets/js/jquery.js"></script>
+    <script src="bootstrap-3.0.0/dist/js/bootstrap.min.js"></script>    
+  </body>
+</html>
