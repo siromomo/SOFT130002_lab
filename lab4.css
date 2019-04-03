@@ -41,48 +41,24 @@ div#topHeaderRow li a{
     text-decoration: none;
 }
 
-div#mainNavigationRow nav{
-
-}
 div#logoRow{
     position: relative;
 }
 div#logoRow h1{
     display: inline-block;
+    margin-left: 13%;
 }
 div#logoRow form{
     position: absolute;
     display: inline-block;
     right: 5%;
 }
+
 div#mainNavigationRow nav ul{
-    display: inline-block;
-    width: 100%;
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    padding-left: 50px;
-}
-div#mainNavigationRow nav ul li{
-    display: inline-block;
-    padding: 1% 2.5% 1% 2.5% ;
-}
-div#mainNavigationRow nav ul li:hover{
-    background-color: #aaaaaa;
-}
-div#mainNavigationRow nav ul li a{
-    color: black;
-    text-decoration: none;
-}
-div#mainNavigationRow nav ul.dropdown-menu{
-    padding-left: 0;
-    display: none;
+    margin-left: 13%;
 }
 .container{
-    width: 100%;
-    max-width: 100%;
-    margin-right: 0;
-    margin-left: 0;
+
 }
 #description{
     margin-top: 6%;
@@ -117,19 +93,28 @@ div#mainNavigationRow nav ul.dropdown-menu{
 }
 .similarTitle {
     font-weight: bold;
-    font-size: large;
 }
-
+.similarTitle2{
+    font-weight: bold;
+}
 .cartText { 
 
 }
-
+.media{
+    position: relative;
+}
+.col-xs-3 .media img{
+    position: relative;
+    top: -10px;
+}
 footer {
    margin-top: 1em;
    background-color: #E7E7E7;
 
 }
-
+.similarProductsTitle{
+    margin-left: 13%;
+}
 .justOrderedDescription{
     display: inline-block;
 }

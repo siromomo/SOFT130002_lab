@@ -39,20 +39,14 @@
    </div>  <!-- end logoRow -->
    
    <div id="mainNavigationRow" >
-         <nav class="navbar-default">
-             <ul >
-               <li ><a href="#">Home</a></li>
+         <nav class="navbar navbar-default" role="navigation">
+             <ul class="nav navbar-nav">
+               <li class="active"><a href="#">Home</a></li>
                <li><a href="#">About Us</a></li>
                <li><a href="#">Art Works</a></li>
                <li><a href="#">Artists</a></li>
                <li class="dropdown">
-                 <a href="#" class="dropdown-toggle" data-toggle="dropdown"
-                    onclick="var dpd = document.getElementsByClassName('dropdown-menu')[0];
-                                if(dpd.style.display === 'none'){
-                                    dpd.style.display = 'block';
-                                }else{
-                                    dpd.style.display = 'none';
-                                }">Specials <span class="caret"></span></a>
+                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Specials<b class="caret"></b></a>
                  <ul class="dropdown-menu">
                    <li><a href="#">Special 1</a></li>
                    <li><a href="#">Special 2</a></li>                   
@@ -124,16 +118,16 @@
 
     <p>&nbsp;</p>
 
-    <h3>Similar Products </h3>
+    <h3 class="similarProductsTitle">Similar Products </h3>
 <div class="container similar">
-    <div class="similarContent col-xs-9">
+    <div class="similarContent col-xs-10">
     <div class="panel panel-default">
       <img src="images/art/thumbs/116010.jpg" alt="..." >
       <div class="media-body">
              <p class="similarTitle"><a href="#">Artist Holding a Thistle</a></p>
-             <button type="button" class="btn btn-primary"><span class="glyphicon glyphicon-info-sign"></span> View</button>
-             <button type="button" class="btn btn-success"><span class="glyphicon glyphicon-gift"></span> Wish</button>
-             <button type="button" class="btn btn-info"><span class="glyphicon glyphicon-shopping-cart"></span> Cart</button>
+             <button type="button" class="btn btn-primary btn-sm"><span class="glyphicon glyphicon-info-sign"></span> View</button>
+             <button type="button" class="btn btn-success btn-sm"><span class="glyphicon glyphicon-gift"></span> Wish</button>
+             <button type="button" class="btn btn-info btn-sm"><span class="glyphicon glyphicon-shopping-cart"></span> Cart</button>
       </div>
     </div>                   
 
@@ -141,32 +135,32 @@
       <img src="images/art/thumbs/120010.jpg" alt="..." >
       <div class="media-body">
              <p class="similarTitle"><a href="#">Portrait of Eleanor of Toledo</a></p>
-          <button type="button" class="btn btn-primary"><span class="glyphicon glyphicon-info-sign"></span> View</button>
-          <button type="button" class="btn btn-success"><span class="glyphicon glyphicon-gift"></span> Wish</button>
-          <button type="button" class="btn btn-info"><span class="glyphicon glyphicon-shopping-cart"></span> Cart</button>
+          <button type="button" class="btn btn-primary btn-sm"><span class="glyphicon glyphicon-info-sign"></span> View</button>
+          <button type="button" class="btn btn-success btn-sm"><span class="glyphicon glyphicon-gift"></span> Wish</button>
+          <button type="button" class="btn btn-info btn-sm"><span class="glyphicon glyphicon-shopping-cart"></span> Cart</button>
       </div>
     </div>                   
     <div class="panel panel-default">
         <img src="images/art/thumbs/107010.jpg" alt="..." >
         <div class="media-body">
              <p class="similarTitle"><a href="#">Madame de Pompadour</a></p>
-            <button type="button" class="btn btn-primary"><span class="glyphicon glyphicon-info-sign"></span> View</button>
-            <button type="button" class="btn btn-success"><span class="glyphicon glyphicon-gift"></span> Wish</button>
-            <button type="button" class="btn btn-info"><span class="glyphicon glyphicon-shopping-cart"></span> Cart</button>
+            <button type="button" class="btn btn-primary btn-sm"><span class="glyphicon glyphicon-info-sign"></span> View</button>
+            <button type="button" class="btn btn-success btn-sm"><span class="glyphicon glyphicon-gift"></span> Wish</button>
+            <button type="button" class="btn btn-info btn-sm"><span class="glyphicon glyphicon-shopping-cart"></span> Cart</button>
         </div>
     </div>                   
     <div class="panel panel-default">
         <img src="images/art/thumbs/106020.jpg" alt="..." >
         <div >
              <p class="similarTitle"><a href="#">Girl with a Pearl Earring</a></p>
-            <button type="button" class="btn btn-primary"><span class="glyphicon glyphicon-info-sign"></span> View</button>
-            <button type="button" class="btn btn-success"><span class="glyphicon glyphicon-gift"></span> Wish</button>
-            <button type="button" class="btn btn-info"><span class="glyphicon glyphicon-shopping-cart"></span> Cart</button>
+            <button type="button" class="btn btn-primary btn-sm"><span class="glyphicon glyphicon-info-sign"></span> View</button>
+            <button type="button" class="btn btn-success btn-sm"><span class="glyphicon glyphicon-gift"></span> Wish</button>
+            <button type="button" class="btn btn-info btn-sm"><span class="glyphicon glyphicon-shopping-cart"></span> Cart</button>
         </div>
     </div>
     </div>
 </div>
-<div class="col-xs-2 sidebar" style="position: absolute; top: 25%; left: 80%">
+<div class="col-xs-2 sidebar" style="position: absolute; top: 25%; left: 75%">
 
     <div class="panel panel-primary" style="margin-top: 10px">
         <div class="panel-heading">
@@ -236,17 +230,17 @@
         <img src="images/art/tiny/13030.jpg" alt="...">
       </a>
         <div class="media-body justOrderedDescription">
-        <p> <a href="#">Arrangement in Grey and Black</a></p>
+        <p class="similarTitle2" > <a href="#">Arrangement in<br> Grey and Black</a></p>
         <em>5 minutes ago</em>
         </div>
     </div>
 
     <div class="media">
-      <a  href="#">
-        <img  src="images/art/tiny/116010.jpg" alt="...">
+      <a href="#">
+        <img class="" src="images/art/tiny/116010.jpg" alt="...">
       </a>
         <div class="media-body justOrderedDescription">
-        <p ><a href="#">Artist Holding a Thistle</a></p>
+        <p class="similarTitle2"><a href="#">Artist Holding a Thistle</a></p>
         <em>11 minutes ago</em>
         </div>
     </div>   
@@ -255,7 +249,7 @@
         <img src="images/art/tiny/113010.jpg" alt="...">
       </a>
         <div class="media-body justOrderedDescription">
-        <p class="similarTitle"><a href="#">Self-portrait in a Straw Hat</a></p>
+        <p class="similarTitle2"><a href="#">Self-portrait in a Straw Hat</a></p>
         <em>23 minutes ago</em>
         </div>
       </div>
