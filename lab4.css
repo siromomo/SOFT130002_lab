@@ -61,7 +61,7 @@ div#mainNavigationRow nav ul{
 
 }
 #description{
-    margin-top: 6%;
+    margin-top: 11%;
 }
 .price { 
     font-size: large;
@@ -137,5 +137,6 @@ footer {
     position: absolute;
     right: 5%;
 }
-.sidebar .panel-info{
+.form-control{
+    margin-bottom: 5px;
 }
