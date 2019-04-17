@@ -269,7 +269,7 @@
     <script>
         var subTotal = 0;
         var tax = 0;
-        var shipping = 100;
+        var shipping = 40;
         function writeALine(tbl, file, product, quantity, price, index) {
             var amount = quantity * price;
             /*tbl.innerHTML += "<tr>\n" +
@@ -304,6 +304,8 @@
         }
         tax = subTotal / 10;
         var grandTotal = subTotal + tax + shipping;
+        if(subTotal > 1000)
+            shipping = 0;
         document.getElementById("subTotal").innerText = "$" + subTotal;
         document.getElementById("tax").innerText = "$" + tax;
         document.getElementById("shipping").innerText = "$" + shipping;
