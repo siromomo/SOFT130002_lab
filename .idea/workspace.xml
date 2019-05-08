@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f99bc2c4-4d1c-4a5d-a7fe-076b7dbd58fd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lab6/lab6.js" beforeDir="false" afterPath="$PROJECT_DIR$/lab6/lab6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lab1.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,28 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab4.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2664">
-              <caret line="148" column="116" selection-start-line="148" selection-start-column="116" selection-end-line="148" selection-end-column="116" />
-              <folding>
-                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab4.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2520">
-              <caret line="140" column="22" selection-start-line="140" selection-start-column="22" selection-end-line="140" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -75,17 +54,33 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab5/lab5.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
+            <state relative-caret-position="5544">
               <caret line="308" column="71" selection-start-line="308" selection-start-column="71" selection-end-line="308" selection-end-column="71" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab6/lab6.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="42" column="23" lean-forward="true" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+            <state relative-caret-position="333">
+              <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab7/lab7.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-558" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab7/lab7.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="27" column="54" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -94,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/lab6/lab6.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -124,6 +119,7 @@
         <option value="$PROJECT_DIR$/lab4.html" />
         <option value="$PROJECT_DIR$/lab5/lab5.html" />
         <option value="$PROJECT_DIR$/lab6/lab6.js" />
+        <option value="$PROJECT_DIR$/lab7/lab7.html" />
       </list>
     </option>
   </component>
@@ -139,7 +135,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,51 +151,25 @@
             <path>
               <item name="lab1" type="b2602c69:ProjectViewProjectNode" />
               <item name="lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="lab5" type="462c0819:PsiDirectoryNode" />
+              <item name="lab7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lab1" type="b2602c69:ProjectViewProjectNode" />
               <item name="lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="lab5" type="462c0819:PsiDirectoryNode" />
+              <item name="lab7" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lab1" type="b2602c69:ProjectViewProjectNode" />
               <item name="lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="lab5" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="art" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="lab5" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="art" type="462c0819:PsiDirectoryNode" />
-              <item name="thumbs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="lab6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="lab6" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="lab6" type="462c0819:PsiDirectoryNode" />
+              <item name="lab7" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
               <item name="medium" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lab1" type="b2602c69:ProjectViewProjectNode" />
               <item name="lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="lab6" type="462c0819:PsiDirectoryNode" />
+              <item name="lab7" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
               <item name="small" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -207,18 +177,21 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554336247029" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/学习/game" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557305581360" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lab7/jquery-3.1.0.min.js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -255,18 +228,19 @@
       <workItem from="1554720289010" duration="2732000" />
       <workItem from="1555074239720" duration="4816000" />
       <workItem from="1555501736025" duration="1475000" />
-      <workItem from="1555672566956" duration="4176000" />
+      <workItem from="1555672566956" duration="6116000" />
+      <workItem from="1557301029708" duration="4545000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43570000" />
+    <option name="totallyTimeSpent" value="50055000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15405224" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15606162" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -274,7 +248,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -372,30 +346,115 @@
     <entry file="file://$PROJECT_DIR$/lab6/lab6.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab5/lab5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="308" column="71" selection-start-line="308" selection-start-column="71" selection-end-line="308" selection-end-column="71" />
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab6/lab6.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="42" column="23" lean-forward="true" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+        <state relative-caret-position="333">
+          <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5/lab5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5544">
+          <caret line="308" column="71" selection-start-line="308" selection-start-column="71" selection-end-line="308" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab7/lab7.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-558" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab7/lab7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="54" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>@types/jquery</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>lab1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jquery-3.1.0.min</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
